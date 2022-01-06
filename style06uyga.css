@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-image: url(./macOSBigSur.jpg);
+
+}
+.kata_div{
+    width: 60%;
+    height: 50vh;
+    border-radius: 50px;
+    background-color: rgba(128, 122, 122, 0.502);
+    backdrop-filter: blur(50px);
+    display: flex;
+    position: absolute;
+}
+.kichik_div{
+    width: 250px;
+    height: 370px;
+    background-color: brown;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+  top: 30px;
+
+    
+}
+.ggg{
+    width: 250px;
+    height: 150px;
+}
+.tarif{
+    font-size: 20px;
+    color: white;
+    padding-top: 40px;
+    margin-right: 60px;
+    font-family: sans-serif;
+}
+.ddd{
+    color: rgb(185, 180, 180);
+   margin-top: 10px; 
+}
+.jjj{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 25px;
+    margin-left: 37%;
+    margin-top: 20px;
+    background-color: rgba(92, 89, 89, 0.502);
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.katoro_div{
+    width: 820px;
+    height: 470px;
+   
+    border-radius: 50px;
+    margin-left: 25px;
+    display: flex;
+}
+.veb{
+    width: 410px;
+    height: 470px;
+   
+}
+.veb1{
+    width: 410px;
+    height: 470px;
+
+    margin-top: 10px;
+}
+.veb2{
+    width: 410px;
+    height: 130px;
+       
+    margin-top: 25px    ;
+}
+.veb3{
+    width: 410px;
+    height: 120px;
+   
+    margin-top: 20px    ;
+}
+.dec{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(109, 107, 107, 0.502);
+border-radius: 50%;
+display:flex;
+
+}
+.fff{
+   padding-top: 10px;
+    margin-left: 20px;
+    font-size: 28px;
+}
+.sed{
+    width: 70px;
+    height: 20px;
+    background-color: rgba(92, 89, 89, 0.502);
+    margin-left: 330px;
+    margin-top: -40px;
+}
+.fed{
+    margin-left: 20px;
+}
+.tarif{
+    margin-left: 60px;
+    margin-top: -55px; ;
+}
+h3{
+    color: black;
+}
+h5{
+    color: rgb(7, 7, 7);
+}
+.ffff{
+    padding-top: 10px;
+    margin-left: 12px;
+    font-size: 28px; 
+}
+.veb20{
+    width: 410px;
+    height: 130px;
+        
+    margin-top: 38px    ;
+
+}
+.veb30{
+    width: 410px;
+    height: 120px;
+       
+    margin-top: 20px    ;
+}
+.veb31{
+    width: 410px;
+    height: 120px;
+        
+    margin-top: 20px    ;
+}
+p{
+font-size: 20px;
+margin-top: 10px;
+}
